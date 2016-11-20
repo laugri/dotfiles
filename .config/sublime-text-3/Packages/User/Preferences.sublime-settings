@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		"build",
+		"node_modules",
+		".git"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_medium": true,
+	"spacegray_tabs_font_xlarge": true,
+	"spacegray_tabs_large": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
