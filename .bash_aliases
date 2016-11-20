@@ -13,3 +13,4 @@ alias nr='npm run'
 
 # dotfiles management
 alias dotfiles='git --git-dir=$HOME/.dotfiles-mgmt/ --work-tree=$HOME'
+alias dtf='dotfiles'
