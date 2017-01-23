@@ -210,11 +210,16 @@ fi
 
 # Virtualenvwrapper
 
-# export WORKON_HOME=$HOME/.virtualenvs
-# export PROJECT_HOME=$HOME/Devel
-# source /usr/local/bin/virtualenvwrapper.sh
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Envs
+source /usr/local/bin/virtualenvwrapper.sh
+
 
 # Fuck
 
 eval "$(thefuck --alias)"
 
+
+# Z
+
+. ~/z/z.sh
